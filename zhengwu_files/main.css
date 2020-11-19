@@ -1568,8 +1568,8 @@
 
 	body, input, select, textarea {
 		color: #a2a2a2;
-		font-family: Optima, sans-serif;
-		font-size: 16pt;
+		font-family: "Arial", serif;
+		font-size: 20pt;
 		font-weight: 400;
 		line-height: 1.75em;
 	}
@@ -1596,7 +1596,7 @@
 	}
 
 	em, i {
-		font-style: italic;
+		font-style: normal;
 	}
 
 	p {
@@ -1641,7 +1641,7 @@
 	}
 
 	h6 {
-		font-size: 0.7em;
+		font-size: 0.98em;
 		line-height: 1.5em;
 	}
 
